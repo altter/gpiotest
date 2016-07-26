@@ -21,3 +21,5 @@ public:
 private:
     string gpionum; // GPIO number associated with the instance of an object
 };
+
+#endif
